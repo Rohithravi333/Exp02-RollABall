@@ -85,7 +85,8 @@ public class RollAball : MonoBehaviour
 ```
 ## Output :
 
-![Uploading o1.jpg…]()
+![o1](https://github.com/Abrinnisha6/Exp02-RollABall/assets/118889454/bc80037b-e0a6-4a76-98d6-48cf9ceb8a04)
+
 
 
 ## Result :
